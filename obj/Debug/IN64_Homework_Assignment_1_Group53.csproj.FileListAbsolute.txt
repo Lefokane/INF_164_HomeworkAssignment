@@ -1,0 +1,11 @@
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\bin\Debug\IN64_Homework_Assignment_1_Group53.exe.config
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\bin\Debug\IN64_Homework_Assignment_1_Group53.exe
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\bin\Debug\IN64_Homework_Assignment_1_Group53.pdb
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.csproj.AssemblyReference.cache
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.Login.resources
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.Properties.Resources.resources
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.csproj.GenerateResource.cache
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.csproj.CoreCompileInputs.cache
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.exe
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.pdb
+C:\Users\lefok\Documents\164 Practicals\164 Group homework assignment 1\IN64_Homework_Assignment_1_Group53\obj\Debug\IN64_Homework_Assignment_1_Group53.exe.config
